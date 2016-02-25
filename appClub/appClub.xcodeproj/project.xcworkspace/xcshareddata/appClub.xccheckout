@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7D0230F-2D46-49B5-AC68-080576CD5754</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4F525F8FFE71C9A294CCC0CDD7F09B065A9BCB37</key>
+		<string>https://github.com/NotreDameAppClub/App-Club-App---iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>appClub/appClub.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4F525F8FFE71C9A294CCC0CDD7F09B065A9BCB37</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NotreDameAppClub/App-Club-App---iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4F525F8FFE71C9A294CCC0CDD7F09B065A9BCB37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4F525F8FFE71C9A294CCC0CDD7F09B065A9BCB37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>appClubApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

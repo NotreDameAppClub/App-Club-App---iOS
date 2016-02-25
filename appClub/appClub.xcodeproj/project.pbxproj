@@ -14,6 +14,9 @@
 		5A9C5AE91C7E7D440017C4AC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A9C5AE81C7E7D440017C4AC /* Images.xcassets */; };
 		5A9C5AEC1C7E7D440017C4AC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5A9C5AEA1C7E7D440017C4AC /* LaunchScreen.xib */; };
 		5A9C5AF81C7E7D440017C4AC /* appClubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C5AF71C7E7D440017C4AC /* appClubTests.m */; };
+		5A9C5B031C7E7D9D0017C4AC /* newsEventVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C5B021C7E7D9D0017C4AC /* newsEventVC.m */; };
+		5A9C5B061C7E7F030017C4AC /* newsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C5B051C7E7F030017C4AC /* newsVC.m */; };
+		5A9C5B091C7E7F100017C4AC /* eventsVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C5B081C7E7F100017C4AC /* eventsVC.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,12 @@
 		5A9C5AF11C7E7D440017C4AC /* appClubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appClubTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A9C5AF61C7E7D440017C4AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A9C5AF71C7E7D440017C4AC /* appClubTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = appClubTests.m; sourceTree = "<group>"; };
+		5A9C5B011C7E7D9D0017C4AC /* newsEventVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newsEventVC.h; sourceTree = "<group>"; };
+		5A9C5B021C7E7D9D0017C4AC /* newsEventVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newsEventVC.m; sourceTree = "<group>"; };
+		5A9C5B041C7E7F030017C4AC /* newsVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newsVC.h; sourceTree = "<group>"; };
+		5A9C5B051C7E7F030017C4AC /* newsVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newsVC.m; sourceTree = "<group>"; };
+		5A9C5B071C7E7F100017C4AC /* eventsVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = eventsVC.h; sourceTree = "<group>"; };
+		5A9C5B081C7E7F100017C4AC /* eventsVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = eventsVC.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +95,12 @@
 				5A9C5AE21C7E7D430017C4AC /* ViewController.h */,
 				5A9C5AE31C7E7D430017C4AC /* ViewController.m */,
 				5A9C5AE51C7E7D440017C4AC /* Main.storyboard */,
+				5A9C5B041C7E7F030017C4AC /* newsVC.h */,
+				5A9C5B051C7E7F030017C4AC /* newsVC.m */,
+				5A9C5B071C7E7F100017C4AC /* eventsVC.h */,
+				5A9C5B081C7E7F100017C4AC /* eventsVC.m */,
+				5A9C5B011C7E7D9D0017C4AC /* newsEventVC.h */,
+				5A9C5B021C7E7D9D0017C4AC /* newsEventVC.m */,
 				5A9C5AE81C7E7D440017C4AC /* Images.xcassets */,
 				5A9C5AEA1C7E7D440017C4AC /* LaunchScreen.xib */,
 				5A9C5ADB1C7E7D430017C4AC /* Supporting Files */,
@@ -219,7 +234,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A9C5B031C7E7D9D0017C4AC /* newsEventVC.m in Sources */,
 				5A9C5AE41C7E7D430017C4AC /* ViewController.m in Sources */,
+				5A9C5B061C7E7F030017C4AC /* newsVC.m in Sources */,
+				5A9C5B091C7E7F100017C4AC /* eventsVC.m in Sources */,
 				5A9C5AE11C7E7D430017C4AC /* AppDelegate.m in Sources */,
 				5A9C5ADE1C7E7D430017C4AC /* main.m in Sources */,
 			);
