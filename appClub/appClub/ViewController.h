@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) IBOutlet UITextField *netIDTextField;
+- (IBAction)netIDTextFieldEntered:(id)sender;
 
 @end
 
